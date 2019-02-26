@@ -1,2 +1,2 @@
 
-nw.Window.open('index.html',{},function(win){});
+nw.Window.open('example-2.html',{},function(win){});
